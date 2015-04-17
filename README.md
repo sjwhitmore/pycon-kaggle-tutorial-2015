@@ -6,7 +6,7 @@ The [Kaggle competition](https://inclass.kaggle.com/c/pycon-2015-tutorial) was t
 
 I worked with Kevin Goetsch and we received 2nd place out of 28 teams.  The first place winner was Kevin Markham, whose solutions have also been [posted](https://github.com/justmarkham/kaggle-pycon-2015).
 
-Our code is [here](kaggle_stack_overflow.py), the tutorial repo is [here](https://github.com/dchudz/pycon2015-kaggle-tutorial), and the data file are [here](https://inclass.kaggle.com/c/pycon-2015-tutorial/data).
+Our code is [here](kaggle_stack_overflow.py), the tutorial repo is [here](https://github.com/dchudz/pycon2015-kaggle-tutorial), and the data files are [here](https://inclass.kaggle.com/c/pycon-2015-tutorial/data).
 
 Please [contact me](http://twitter.com/sjwhitmore) with any further questions!
 
