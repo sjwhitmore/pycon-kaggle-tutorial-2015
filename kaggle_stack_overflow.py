@@ -89,6 +89,8 @@ def naive_bayes_method():
         using the sklearn GridSearchCV method, which tries all combinations of provided parameters
         and picks the model with the best cross validation score.
 
+        The model that won had max features of 10000, used bigrams, and had an alpha of 1e-05. 
+
     ''' 
     train = load_feature_matrix(training_path)
     test = load_feature_matrix(test_path)
